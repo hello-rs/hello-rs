@@ -1,9 +1,11 @@
 # hello-rs
-Some study rust link.
+Rust learning website.
 
 ## The way to learn Rust.
 
 ### base
+- [官网学习资源](https://www.rust-lang.org/learn)
+  - [Rust 官方文档列表](https://rustwiki.org/wiki/translate/rust-translation-guide/)
 - [Rust 中文资源](https://github.com/rust-lang-cn) 官网直达：[https://rustwiki.org/](https://rustwiki.org/)
 - [Rust语言圣经](https://github.com/sunface/rust-course)
 - [Rust语言实战](https://github.com/sunface/rust-by-practice)
