@@ -2,6 +2,7 @@
 Rust learning website.
 
 ## The way to learn Rust.
+- [rust-lang](https://github.com/rust-lang)
 
 ### base
 - [官网学习资源](https://www.rust-lang.org/learn)
