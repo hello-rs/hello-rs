@@ -2,12 +2,15 @@
 Some study rust link.
 
 ## The way to learn Rust.
+
+### base
 - [Rust 中文资源](https://github.com/rust-lang-cn) 官网直达：[https://rustwiki.org/](https://rustwiki.org/)
 - [Rust语言圣经](https://github.com/sunface/rust-course)
 - [Rust语言实战](https://github.com/sunface/rust-by-practice)
 - [100-exercises-to-learn-rust](https://github.com/mainmatter/100-exercises-to-learn-rust)
 - [hello-algo](https://github.com/krahets/hello-algo) 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。
 - [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust) All Algorithms implemented in Rust.
+- [Rust语言中文社区](https://rustcc.cn/)
 
 ### AI
 - [beat-ai](https://github.com/ibeatai/beat-ai) <Beat AI> 又名 <零生万物> , 是一本专属于软件开发工程师的 AI 入门圣经，手把手带你上手写 AI。
