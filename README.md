@@ -2,6 +2,7 @@
 Some study rust link.
 
 ## The way to learn Rust.
+- [Rust 中文资源](https://github.com/rust-lang-cn) 官网直达：[https://rustwiki.org/](https://rustwiki.org/)
 - [Rust语言圣经](https://github.com/sunface/rust-course)
 - [Rust语言实战](https://github.com/sunface/rust-by-practice)
 - [100-exercises-to-learn-rust](https://github.com/mainmatter/100-exercises-to-learn-rust)
