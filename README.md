@@ -1,6 +1,11 @@
 # hello-rs
 Rust learning website.
 
+## Include examples.
+- [mini-redis](./mini-redis) Mini-Redis是以学习Tokio为主要目标而设计的[tokio-tutorial].
+
+[tokio-tutorial]: (https://tokio.rs/tokio/tutorial)
+
 ## The way to learn Rust.
 - [rust-lang](https://github.com/rust-lang)
 
