@@ -15,6 +15,7 @@ Rust learning website.
 - [Rust 中文资源](https://github.com/rust-lang-cn) 官网直达：[https://rustwiki.org/](https://rustwiki.org/)
 - [Rust语言圣经](https://github.com/sunface/rust-course)
 - [Rust语言实战](https://github.com/sunface/rust-by-practice)
+- [rust-blog](https://github.com/pretzelhammer/rust-blog) Rust初学者的教育博客文章.
 - [100-exercises-to-learn-rust](https://github.com/mainmatter/100-exercises-to-learn-rust)
 - [hello-algo](https://github.com/krahets/hello-algo) 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。
 - [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust) All Algorithms implemented in Rust.
